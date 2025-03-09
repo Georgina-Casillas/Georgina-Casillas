@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Georgina Casillas</h1>
-<h3 align="center">A passionate Data Science from Mexico City</h3>
+<h3 align="center">A passionate Data Scientist from Mexico City</h3>
 
 - 🌱 I’m currently learning **Machine learning Python, SQL and Data Science**
 
