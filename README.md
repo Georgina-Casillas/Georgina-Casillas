@@ -1,33 +1,16 @@
-<!--
-**Georgina-Casillas/Georgina-Casillas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hi 👋, I'm Georgina Casillas</h1>
+<h3 align="center">A passionate Data Science from Mexico City</h3>
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Machine learning Python, SQL and Data Science**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<h1 align="center">Hi there 🤓, I'm Georgina Casillas </h1>
-<!--h2 align="center">Data Scientist</h2-->
+- 👯 I’m looking to collaborate **with Innovative Industries**
 
-<h3>
- 
-• 💻 I’m a **Data Scientist**
+- 💬 Ask me about **Machine Learning, Data Science, Chemical Processes, Laboratory Skills**
 
-• 🏭 I studied a degree in **Chemical Engineering** and a degree in **Data Science**
+- 📫 How to reach me **gcrosano2@icloud.com**
 
-• 📖 I’m currently learning **Python, SQL and Data Science**
+- 📄 Know about my experiences [www.linkedin.com/in/georgina-casillas-rosano-data-science](www.linkedin.com/in/georgina-casillas-rosano-data-science)
 
-• 🤝 I’m looking to collaborate with **Innovative Industries**
-
-• 💬 Ask me about **Machine Learning, Data Science, Chemical Processes, Laboratory Skills**
-
-• 📫 How to reach me **gcrosano2@icloud.com**  </h3>
 
 
 <h2 align="left">Languages</h2>
